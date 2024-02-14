@@ -1,2 +1,16 @@
-# multi_mails_sender_with_pic_and_var
-This project is a set of codes, which send emails in an automatic way, with an image attached without problems or disappearance of the image, and there is also an additional part to be able to send multiple miles and these miles contain variables that change from one email to the other, where the program is provided with a database It carries the e-mail addresses and some information that we want to but in the mails.  Through the pandas library, we will format the data, then via HTML a template will be created for the mail, some parts of it can be changed, and the parts are changed according to the mail sent to it, and the mail is sent.
+## EmailSender: The Ultimate Automated Email System
+
+### **Overview**
+This project develops an automated email system with a focus on reliability and customization.
+
+### **Key Features**
+- **Reliable Image Attachment**: Ensures images are attached and sent without issues.
+- **Email Customization**: Supports the sending of multiple emails with variable content tailored for each recipient.
+
+### **Technical Details**
+- **Database Utilization**: Utilizes a database to store recipient email addresses and relevant information for email personalization.
+- **Data Management**: Employs the `pandas` library for efficient data formatting.
+- **HTML Email Templates**: Uses HTML to create adaptable email templates, allowing for specific parts to be dynamically changed based on the recipient.
+
+### **Conclusion**
+This project aims to streamline email communication by combining reliable image handling with the ability to send personalized, multiple emails efficiently.
